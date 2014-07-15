@@ -1,0 +1,14 @@
+Package: CItools
+Type: Package
+Title: Computation, comparison and sensitivity analysis of composite
+        indicators of performance
+Version: 1.0
+Date: 2014-06-21
+Author: David Ardia, Kris Boudt, Valentin Todorov and Keshav Pratap
+Maintainer: Kris Boudt <Kris.Boudt@econ.kuleuven.be>
+Description: This package provides functions to compute, compare and test the
+             sensitivity of index based on composite indicators of performance.
+License: GPL (>=2)
+Depends: compiler, robustbase, timeSeries
+Repository: R-Forge
+Repository/R-Forge/Project: cia
